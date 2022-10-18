@@ -1,6 +1,6 @@
-### Olá Devs 👋
+### Hello Devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+I like to create great softwares and help people do the same.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -9,19 +9,20 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Joao_Aguiar** {
  val name = "JOÃO VINÍCIUS DE AGUIAR"
- val acknowledgements = "DESENVOLVEDOR"
+ val acknowledgements = "DEVELOPER"
  
- val primarySkillset = "LINGUAGENS"
+ val primarySkillset = "LANGUAGES"
  val languages = listOf("C#", "Python", "Java") 
 
+ val primarySkillset = "ENGINES"
+ val languages = listOf("Unity Engine2D", "Unity Engine2D", "Unreal Engine") 
 }
 ```
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp; Skillset </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -29,7 +30,7 @@ object **Joao_Aguiar** {
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Developer Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
