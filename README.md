@@ -14,8 +14,8 @@ object **Joao_Aguiar** {
  val primarySkillset = "LANGUAGES"
  val languages = listOf("C#", "Python", "Java") 
 
- val secondarySkillset = "ENGINES"
- val engines = listOf("Unity Engine2D", "Unity Engine2D", "Unreal Engine") 
+ val secondarySkillset = "SKILLS"
+ val engines = listOf("Unity 2D/3D") 
 }
 ```
 
